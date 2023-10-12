@@ -3,6 +3,7 @@
 
 - 🔭 Currently working on a Accessibility-based app for disabled people in Flutter  
 - 🌱 Currently studying Flutter, PHP, Javascript and about Vitual Machines  
+- 📫 How to reach me **luanna@paggiaro.com**
 - ⚡ Also a lover for Human Sciences  
 
 **Languages and Tools:**

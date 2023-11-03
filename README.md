@@ -2,7 +2,7 @@
 <h3 align="center"> Passionate about learning</h3>  
 
 - 🔭 Currently working on a Accessibility-based app for disabled people in Flutter  
-- 🌱 Currently studying Flutter, PHP, Javascript and about Vitual Machines  
+- 🌱 Currently studying Flutter, PHP, Javascript and about Arduino 
 - 📫 How to reach me **luanna@paggiaro.com**  
 - ⚡ Also a lover for Human Sciences
   

@@ -3,8 +3,9 @@
 
 - 🔭 Currently working on a Accessibility-based app for disabled people in Flutter  
 - 🌱 Currently studying Flutter, PHP, Javascript and about Arduino 
-- 📫 How to reach me **luanna@paggiaro.com**  
+- 📫 Reach me by my e-mail **luanna@paggiaro.com** or my Linkedin right below! 
 - ⚡ Also a lover for Human Sciences
+- 📍  Based in Brazil - São Paulo State 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">

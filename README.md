@@ -1,8 +1,7 @@
 <h1 align="center"> Hello world, I'm Luanna! 👋 </h1>
 <h3 align="center"> Passionate about learning</h3>  
 
-- 🔭 Currently working on a Accessibility-based app for disabled people in Flutter  
-- 🌱 Currently studying Flutter, PHP, Javascript and about Arduino 
+- 🔭 Recently finished an Accessibility-based app for disabled people in Flutter  
 - 📫 Reach me by my e-mail **luanna@paggiaro.com** or my Linkedin right below! 
 - ⚡ Also a lover for Human Sciences
 - 📍  Based in Brazil - São Paulo State 

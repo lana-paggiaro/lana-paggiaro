@@ -1,4 +1,4 @@
-<h1 align="center"> Hello world, I'm Luanna/Lala! 👋 </h1>
+<h1 align="center"> Hello world, I'm Luanna/Lana! 👋 </h1>
 <h3 align="center"> Passionate about learning</h3>  
 
 - 🔭 Recently finished an Accessibility-based app for disabled people in Flutter
